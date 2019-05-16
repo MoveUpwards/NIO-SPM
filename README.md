@@ -9,6 +9,8 @@ pod 'SwiftNIO'
 pod 'SwiftNIOTransportServices'
 ```
 
+---
+
 # Swift Package Manager with iOS
 
 This project demonstrates a working method for using [Swift Package Manager](https://github.com/apple/swift-package-manager) (SPM) to manage the dependencies of an iOS project. It has been tested with Xcode 9.1, using Swift 4 and the SPM v4 description format.
